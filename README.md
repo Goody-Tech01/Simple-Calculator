@@ -11,6 +11,9 @@ This is a simple GUI calculator built using Python and Tkinter. It performs basi
 ## Technologies Used
 1. Python
 2. Tkinter
+   
+## Preview
+![Simple Calculator](simple calculator.png)
 
 ## How to Run
 1. Download or clone the repository
